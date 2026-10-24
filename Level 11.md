@@ -1,0 +1,2 @@
+base64 -d data.txt
+pYfOY6HwUsDj5rL9UvyhU7MCmv8vN5Ro
